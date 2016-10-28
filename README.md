@@ -8,28 +8,28 @@ Guides Completed:
 
 Guides to Complete:
 
--Understanding the GitHub Flow
+- Understanding the GitHub Flow
 
--Contributing to Open Source on GitHub
+- Contributing to Open Source on GitHub
 
--Getting Started with GitHub Pages
+- Getting Started with GitHub Pages
 
--Getting your proyect on GitHub
+- Getting your proyect on GitHub
 
--Forking Proyects
+- Forking Proyects
 
--Be Social
+- Be Social
 
--Making Your Code Citable
+- Making Your Code Citable
 
--Mastering Issues
+- Mastering Issues
 
--Mastering Markdown
+- Mastering Markdown
 
--Documenting your proyects on Github
+- Documenting your proyects on Github
 
 Source:
--https://guides.github.com/
+- https://guides.github.com/
 
 Time Left: 1h:18m
 
